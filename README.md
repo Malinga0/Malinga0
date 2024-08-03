@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@gayashanmalinga" target="blank"><img src="https://img.shields.io/twitter/follow/@gayashanmalinga?logo=twitter&style=for-the-badge" alt="@gayashanmalinga" /></a> </p>
 
-- 🌱 I’m currently learning **Java,Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **gmalinga718@gmail.com**
 
