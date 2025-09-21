@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gmalinga718@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I enjoy solving problems and learning new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
